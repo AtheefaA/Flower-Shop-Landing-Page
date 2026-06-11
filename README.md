@@ -73,21 +73,7 @@ Flower-Shop-Landing-Page/
 | `script.js`  | Interactive functionality |
 | `README.md`  | Project documentation     |
 
----
 
-## 📷 Website Preview
-
-> Add a screenshot of your landing page to the repository and reference it like this:
-
-```markdown
-![Flower Shop Landing Page](Screenshot.png)
-```
-
-If the screenshot is inside another folder:
-
-```markdown
-![Flower Shop Landing Page](images/Screenshot.png)
-```
 
 ---
 
